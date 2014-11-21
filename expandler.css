@@ -1,0 +1,24 @@
+.menu.ui-sortable .menu-item-depth-0 .menu-item-bar .menu-item-handle {
+    padding: 10px 15px 10px 25px;
+}
+
+.menu-item-handle.dropped {
+    border-color: #999;
+}
+
+/*.menu.ui-sortable .menu-item-depth-1 {
+    display: none;
+}*/
+
+.dashicons.dashicons-arrow-down-alt2,
+.dashicons.dashicons-arrow-up-alt2 {
+    cursor: pointer;
+    position: absolute;
+    top: 11px;
+    left: 5px;
+    color: #777;
+}
+
+.dashicons.dashicons-arrow-up-alt2 {
+    top: 9px;
+}
