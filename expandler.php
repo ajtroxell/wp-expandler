@@ -10,6 +10,7 @@
 	Domain Path: /languages
 	Text Domain: expandler
 	Bitbucket Plugin URI: https://bitbucket.org/atroxell/expandler
+	GitHub Branch: master
 	*/
 
 	function expandler($hook) {
