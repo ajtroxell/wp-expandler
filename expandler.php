@@ -3,7 +3,7 @@
 	Plugin Name: Expandler
 	Plugin URI:	https://bitbucket.org/atroxell/expandler
 	Description: A VERY simple Wordpress plugin to make menu management a bit easier with expandable sub-menu items. This plugin requires the GitHub Updater plugin in order to apply updates.
-	Version: 1.0.0
+	Version: 1.1.0
 	Author: AJ Troxell
 	License: GNU General Public License v2
 	License URI: http://www.gnu.org/licenses/gpl-2.0.html

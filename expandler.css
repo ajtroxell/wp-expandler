@@ -1,4 +1,5 @@
-.menu.ui-sortable .menu-item-depth-0 .menu-item-bar .menu-item-handle {
+.menu.ui-sortable .menu-item-depth-0 .menu-item-bar .menu-item-handle,
+.menu.ui-sortable .menu-item-depth-1 .menu-item-bar .menu-item-handle {
     padding: 10px 15px 10px 25px;
 }
 

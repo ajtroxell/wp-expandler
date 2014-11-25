@@ -4,5 +4,8 @@ A VERY simple Wordpress plugin to make menu management a bit easier with expanda
 
 
 ##Changelog
+###1.1.0
+- Added support for two levels.
+
 ###1.0.0
 - Initial commit and release. Allows expansion of second level menu items only.
