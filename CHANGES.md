@@ -1,3 +1,6 @@
+####1.1.1
+- Updated readme.
+
 ####1.1.0
 - Added support for two levels.
 
